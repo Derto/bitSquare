@@ -25,7 +25,8 @@ Changelog list:
 * **v0.3.9**: get a [MyHub](http://dev.bukkit.org/bukkit-plugins/myhub/) plugin
 * **v0.4.0**: fix firstspawn point
 
-#To-Do list
+To-Do list:
+
 * Survival Games
 * Spleef
 * ?
