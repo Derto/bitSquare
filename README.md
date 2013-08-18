@@ -25,6 +25,8 @@ Changelog list:
 * **v0.3.9**: get a [MyHub](http://dev.bukkit.org/bukkit-plugins/myhub/) plugin
 * **v0.4.0**: fix firstspawn point
 * **v0.4.1**: fix commands per world
+* **v0.4.2**: get a [Survival Games](http://dev.bukkit.org/bukkit-plugins/survival-games/pages/setup/reference/) plugin
+* **v0.4.3**: added a Survival Games [map](http://www.minecraftsurvivalgames.com/threads/survival-games-breeze-island.10912/)
 
 To-Do list:
 
