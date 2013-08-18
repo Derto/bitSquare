@@ -20,3 +20,8 @@ Changelog list on minecraft server bitSquare reloaded
 * **v0.3.8**: fix "spawn" problem
 * **v0.3.9**: get a MyHub plugin
 * **v0.4.0**: fix "firstspawn" point
+
+#To-Do list
+* Survival Games world's
+* Spleef arena
+* ?
