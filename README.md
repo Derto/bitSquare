@@ -18,12 +18,12 @@ Changelog list:
 * **v0.3.2**: get a [Ultimate Skyblock](http://dev.bukkit.org/bukkit-plugins/ultimate-skyblock/) plugin
 * **v0.3.3**: create a lobby
 * **v0.3.4**: get a [Custom Help]() plugin
-* **v0.3.5**: fix encoding in linux, fix typo
-* **v0.3.6**: fix typo, fix Essentials commands "rules"
+* **v0.3.5**: fix encoding on command `/help`
+* **v0.3.6**: fix typo, fix Essentials commands `/rules` and `/info`
 * **v0.3.7**: get a [HomeSpawnPlus](http://dev.bukkit.org/bukkit-plugins/homespawnplus/) plugin
-* **v0.3.8**: fix "spawn" problem
+* **v0.3.8**: fix `/spawn` problem
 * **v0.3.9**: get a [MyHub](http://dev.bukkit.org/bukkit-plugins/myhub/) plugin
-* **v0.4.0**: fix "firstspawn" point
+* **v0.4.0**: fix firstspawn point
 
 #To-Do list
 * Survival Games
