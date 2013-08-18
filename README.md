@@ -24,9 +24,9 @@ Changelog list:
 * **v0.3.8**: fix `/spawn` problem
 * **v0.3.9**: get a [MyHub](http://dev.bukkit.org/bukkit-plugins/myhub/) plugin
 * **v0.4.0**: fix firstspawn point
+* **v0.4.1**: fix commands per world
 
 To-Do list:
 
-* Survival Games
 * Spleef
 * ?
