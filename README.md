@@ -8,8 +8,8 @@ Changelog list:
 * **v0.0.1-v0.1.0**: get a standard plugins kit
 * **v0.1.1**: create a about text
 * **v0.1.2**: create a survival world
-* **v0.1.3**: Essentials kit fix
-* **v0.1.3-v0.2.5**: typo style fix
+* **v0.1.3**: fix Essentials kit
+* **v0.1.3-v0.2.5**: fix typo style
 * **v0.2.6**: permission create
 * **v0.2.7**: permission WorldGuard & WorldEdit fix
 * **v0.2.8-0.2.9**: Essentials motd update
@@ -27,6 +27,7 @@ Changelog list:
 * **v0.4.1**: fix commands per world
 * **v0.4.2**: get a [Survival Games](http://dev.bukkit.org/bukkit-plugins/survival-games/pages/setup/reference/) plugin
 * **v0.4.3**: added a Survival Games [map](http://www.minecraftsurvivalgames.com/threads/survival-games-breeze-island.10912/)
+* **v0.4.4**: fix typo in Survival Games
 
 To-Do list:
 
