@@ -28,6 +28,7 @@ Changelog list:
 * **v0.4.2**: get a [Survival Games](http://dev.bukkit.org/bukkit-plugins/survival-games/pages/setup/reference/) plugin
 * **v0.4.3**: added a Survival Games [map](http://www.minecraftsurvivalgames.com/threads/survival-games-breeze-island.10912/)
 * **v0.4.4**: fix typo in Survival Games
+* **v0.4.5**: change the core on a [Spigot-1.6.2-R0.2](http://ci.md-5.net/job/Spigot/)
 
 To-Do list:
 
