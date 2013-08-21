@@ -29,8 +29,9 @@ Changelog list:
 * **v0.4.3**: added a Survival Games [map](http://www.minecraftsurvivalgames.com/threads/survival-games-breeze-island.10912/)
 * **v0.4.4**: fix typo in Survival Games
 * **v0.4.5**: change the core on a [Spigot-1.6.2-R0.2](http://ci.md-5.net/job/Spigot/)
+* **v0.4.6**: fix typo in Custom Help plugin
+* **v0.4.7**: get a lobby for all Mini Games
 
 To-Do list:
 
-* Spleef
 * ?
