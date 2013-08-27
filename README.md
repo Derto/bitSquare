@@ -32,8 +32,13 @@ Changelog list:
 * **v0.4.6**: fix typo in Custom Help plugin
 * **v0.4.7**: get a lobby for all Mini Games
 * **v0.4.8**: fix firstspawn point on hub
-* **v0.4.9**: added a Surviva map
-* **v0.5.0**: get a [MC Jobs](http://dev.bukkit.org/bukkit-plugins/mcjobs/) plugin
+* **v0.4.9**: get a [1vs1](http://dev.bukkit.org/bukkit-plugins/pvp-1vs1/) plugin
+* **v0.5.0**: added a two 1vs1 map
+* **v0.5.1**: fix typo in 1vs1
+* **v0.5.2**: get a [ChestShop](http://dev.bukkit.org/bukkit-plugins/chestshop/) plugin
+* **v0.5.3**: get a [Tree Assist](http://dev.bukkit.org/bukkit-plugins/tree-assist/) plugin
+* **v0.5.4**: added a Surviva map
+* **v0.5.5**: get a [MC Jobs](http://dev.bukkit.org/bukkit-plugins/mcjobs/) plugin
 
 
 To-Do list:
