@@ -31,7 +31,15 @@ Changelog list:
 * **v0.4.5**: change the core on a [Spigot-1.6.2-R0.2](http://ci.md-5.net/job/Spigot/)
 * **v0.4.6**: fix typo in Custom Help plugin
 * **v0.4.7**: get a lobby for all Mini Games
+* **v0.4.8**: fix firstspawn point on hub
+* **v0.4.9**: added a Surviva map
+* **v0.5.0**: get a [MC Jobs](http://dev.bukkit.org/bukkit-plugins/mcjobs/) plugin
+
 
 To-Do list:
 
+* essentials typo fix
+* MC Jobs typo fix
+* the plugin for the economy on a server
+* MobArena plugin
 * ?
