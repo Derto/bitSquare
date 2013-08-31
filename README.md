@@ -39,13 +39,14 @@ Changelog list:
 * **v0.5.3**: get a [Tree Assist](http://dev.bukkit.org/bukkit-plugins/tree-assist/) plugin
 * **v0.5.4**: added a Surviva map
 * **v0.5.5**: get a [MC Jobs](http://dev.bukkit.org/bukkit-plugins/mcjobs/) plugin
-* **v0.5.6**: [Essentials](http://dev.bukkit.org/bukkit-plugins/essentials/) typo fix
+* **v0.5.6**: fix typo in [Essentials](http://dev.bukkit.org/bukkit-plugins/essentials/)
 * **v0.5.7**: fix [PermissionsEX](http://dev.bukkit.org/bukkit-plugins/permissionsex/) plugin
 * **v0.5.8**: fix a `/kit start` command
 * **v0.5.9**: fix a `/jobs` command
+* **v0.6.0**: change `error` message color in [Essentials](http://dev.bukkit.org/bukkit-plugins/essentials/)
 
 
 To-Do list:
 
-* MobArena plugin
+* MobArena map
 * ?
