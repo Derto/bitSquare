@@ -41,6 +41,8 @@ Changelog list:
 * **v0.5.5**: get a [MC Jobs](http://dev.bukkit.org/bukkit-plugins/mcjobs/) plugin
 * **v0.5.6**: [Essentials](http://dev.bukkit.org/bukkit-plugins/essentials/) typo fix
 * **v0.5.7**: fix [PermissionsEX](http://dev.bukkit.org/bukkit-plugins/permissionsex/) plugin
+* **v0.5.8**: fix a `/kit start` command
+* **v0.5.9**: fix a `/jobs` command
 
 
 To-Do list:
