@@ -46,6 +46,13 @@ Changelog list:
 * **v0.6.0**: change `error` message color in [Essentials](http://dev.bukkit.org/bukkit-plugins/essentials/)
 * **v0.6.1**: get a awesome [SDFEconomy](files/13-v3-0/) plugin
 * **v0.6.2**: fix typo in SDFEconomy plugin
+* **v0.6.3**: fix settings in MobArena plugin
+* **v0.6.4**: get a Super TNT Run plugin
+* **v0.6.5**: get a [BattleArena](http://dev.bukkit.org/bukkit-plugins/battlearena/) plugin
+* **v0.6.6**: fix typo in BattleArena plugin
+* **v0.6.7**: fix typo in Super TNT Run plugin
+* **v0.6.8**: get a [ServerSigns](http://dev.bukkit.org/bukkit-plugins/serversigns/) plugin
+* **v0.6.9**: get a [SignEdit](http://dev.bukkit.org/bukkit-plugins/signedit/) plugin
 
 To-Do list:
 
