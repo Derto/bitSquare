@@ -44,9 +44,10 @@ Changelog list:
 * **v0.5.8**: fix a `/kit start` command
 * **v0.5.9**: fix a `/jobs` command
 * **v0.6.0**: change `error` message color in [Essentials](http://dev.bukkit.org/bukkit-plugins/essentials/)
-
+* **v0.6.1**: get a awesome [SDFEconomy](files/13-v3-0/) plugin
 
 To-Do list:
 
 * MobArena map
+* Jobs fix
 * ?
