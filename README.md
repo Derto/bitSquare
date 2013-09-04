@@ -60,9 +60,10 @@ Changelog list:
 * **v0.7.2**: fix PermissionsEX plugin
 * **v0.7.3**: get a recommended Rsource Pack by [R3D.CRAFT](http://www.minecraftforum.net/topic/1182714-162-32x-64x-128x-256x-512x-r3dcraft-default-realismsmooth-realism-v011/)
 * **v0.7.4**: get a standard Minecraft icons in the [Resource Pack](http://bistsquare.tk/getpack/)
+* **v0.7.5**: update ChestShop plugin
+* **v0.7.6**: fix typo in ChestShop plugin
 
 To-Do list:
 
-* MobArena map
 * Jobs fix
 * ?
