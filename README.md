@@ -53,6 +53,11 @@ Changelog list:
 * **v0.6.7**: fix typo in Super TNT Run plugin
 * **v0.6.8**: get a [ServerSigns](http://dev.bukkit.org/bukkit-plugins/serversigns/) plugin
 * **v0.6.9**: get a [SignEdit](http://dev.bukkit.org/bukkit-plugins/signedit/) plugin
+* **v0.7.0**: create a mobarena & tntrun maps
+* **v0.7.1**: changed the main world
+* **v0.7.2**: fix PermissionsEX plugin
+* **v0.7.3**: get a recommended Rsource Pack by [R3D.CRAFT](http://www.minecraftforum.net/topic/1182714-162-32x-64x-128x-256x-512x-r3dcraft-default-realismsmooth-realism-v011/)
+* **v0.7.4**: get a standard Minecraft icons in the [Resource Pack](http://bistsquare.tk/getpack/)
 
 To-Do list:
 
