@@ -1,5 +1,7 @@
 #bitSquare reloaded
 **IP**: [play.bitsquare.tk](#)
+**Website**: [bitsquare.tk](http://bitsquare.tk)
+**Group on vk.com**: [vk.com/bitsquare](http://vk.com/bitsquare)
 
 Changelog list:
 
