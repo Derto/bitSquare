@@ -62,6 +62,11 @@ Changelog list:
 * **v0.7.4**: get a standard Minecraft icons in the [Resource Pack](http://bistsquare.tk/getpack/)
 * **v0.7.5**: update ChestShop plugin
 * **v0.7.6**: fix typo in ChestShop plugin
+* **v0.7.7**: fix dispenser cooldown on `/hub`
+* **v0.7.8**: get a Command Block plugin
+* **v0.7.9**: create a shop on `/hub`
+* **v0.8.0**: release candidate version, [website](http://bitsquare.tk/) update
+* **v0.8.1**: public version
 
 To-Do list:
 
