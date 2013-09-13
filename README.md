@@ -1,5 +1,5 @@
 #bitSquare reloaded
-**IP**: [play.bitsquare.tk](#)   
+**IP**: [play.bitsquare.tk:25692](#)   
 **Website**: [bitsquare.tk](http://bitsquare.tk)   
 **Group on vk.com**: [vk.com/bitsquare](http://vk.com/bitsquare)  
 
@@ -67,7 +67,10 @@ Changelog list:
 * **v0.7.9**: create a shop on `/hub`
 * **v0.8.0**: release candidate version, [website](http://bitsquare.tk/) update
 * **v0.8.1**: public version
-
+* **v0.8.2**: get a [Info Book](http://dev.bukkit.org/bukkit-plugins/info-book/) plugin
+* **v0.8.3**: get a [Playtime](http://dev.bukkit.org/bukkit-plugins/playtime/) plugin
+* **v0.8.4**: fix MySql connect on PlayTime plugin
+* 
 To-Do list:
 
 * Jobs fix
