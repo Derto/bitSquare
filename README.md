@@ -70,7 +70,10 @@ Changelog list:
 * **v0.8.2**: get a [Info Book](http://dev.bukkit.org/bukkit-plugins/info-book/) plugin
 * **v0.8.3**: get a [Playtime](http://dev.bukkit.org/bukkit-plugins/playtime/) plugin
 * **v0.8.4**: fix MySql connect on PlayTime plugin
-* 
+* **v0.8.5**: get a [Advanced Bans](http://dev.bukkit.org/bukkit-plugins/advanced-bans/) plugin
+* **v0.8.6**: fix MySql connect on Advanced Bans plugin
+* **v0.8.7**: fix typo in Advanced Bans plugin
+
 To-Do list:
 
 * Jobs fix
