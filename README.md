@@ -11,6 +11,7 @@
  * added website registration
  * get a [CraftBook](http://dev.bukkit.org/bukkit-plugins/craftbook/) plugin
  * get a [ProtocolLib](http://dev.bukkit.org/bukkit-plugins/protocollib/) plugin
+ * get a [BowSpleef]() plugin
  * transfer mini-games to `sky` world
  * update `motd.txt` in Essentials
 
