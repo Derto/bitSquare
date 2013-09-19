@@ -4,6 +4,13 @@
 **Group on vk.com**: [vk.com/bitsquare](http://vk.com/bitsquare)  
 
 *Stable* changelog list:
+* **v1.0.1**:
+
+ * remove 1vs1 plugin by reason of broken `teleportOnDeathPlayer` event
+ * remove BowSpleef plugin by reason of broken permissions
+ * fix registration message in AuthMe Reloaded plugin
+ * get a [Super Bow Spleef](http://dev.bukkit.org/bukkit-plugins/superbowspleef/) plugin
+
 * **v1.0.0**:
 
  * update [AuthMe Reloaded](http://dev.bukkit.org/bukkit-plugins/authme-reloaded/) plugin
