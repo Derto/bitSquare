@@ -6,7 +6,7 @@
 *Stable* changelog list:
 * **v1.0.0**:
 
- * update [AuthMe Reloaded plugin](http://dev.bukkit.org/bukkit-plugins/authme-reloaded/)
+ * update [AuthMe Reloaded](http://dev.bukkit.org/bukkit-plugins/authme-reloaded/) plugin
  * added website integration with Authme
  * added website registration
  * get a [CraftBook](http://dev.bukkit.org/bukkit-plugins/craftbook/) plugin
