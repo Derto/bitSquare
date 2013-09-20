@@ -1,12 +1,15 @@
-#bitSquare reloaded
+## Introduction bitSquare
+
+Homely [Minecraft](https://minecraft.net/) server for *creative* and *good* people.
+
 **IP**: [play.bitsquare.ru:25692](#)   
 **Website**: [bitsquare.ru](http://bitsquare.ru)   
 **Twitter**: [@play_bitsquare](https://twitter.com/play_bitsquare)   
 **Group**: [vk.com/bitsquare](http://vk.com/bitsquare)   
 
+## Changelog
 
-
-*Stable* changelog list:
+*Stable* list:
 * **v1.0.2**:
 
  * update [Playtime](http://dev.bukkit.org/bukkit-plugins/playtime/) plugin to 1.4.0 version
@@ -30,7 +33,7 @@
  * transfer mini-games to `sky` world
  * update `motd.txt` in Essentials
 
-*Beta* changelog list:
+*Beta* list:
 
 * **v0.8.7**: fix typo in Advanced Bans plugin
 * **v0.8.6**: fix MySql connect on Advanced Bans plugin
