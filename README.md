@@ -10,6 +10,11 @@ Homely [Minecraft](https://minecraft.net/) server for *creative* and *good* peop
 ## Changelog
 
 *Stable* list:
+* **v1.0.3**:
+
+ * fixed registration
+ * fixed uppercase nickname registration
+
 * **v1.0.2**:
 
  * update [Playtime](http://dev.bukkit.org/bukkit-plugins/playtime/) plugin to 1.4.0 version
