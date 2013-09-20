@@ -4,6 +4,11 @@
 **Group on vk.com**: [vk.com/bitsquare](http://vk.com/bitsquare)  
 
 *Stable* changelog list:
+* **v1.0.2**:
+
+ * update [Playtime](http://dev.bukkit.org/bukkit-plugins/playtime/) plugin to 1.4.0 version
+ * remove [AutoSaveWorld](http://dev.bukkit.org/bukkit-plugins/autosaveworld/) plugin
+
 * **v1.0.1**:
 
  * remove 1vs1 plugin by reason of broken `teleportOnDeathPlayer` event
