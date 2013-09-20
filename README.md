@@ -12,7 +12,7 @@ Homely [Minecraft](https://minecraft.net/) server for *creative* and *good* peop
 *Stable* list:
 * **v1.0.3**:
 
- * fixed email confirmation
+ * fixed e-mail confirmation
  * fixed lowercase nickname registration
  * fixed `infobook.get` permission
 
