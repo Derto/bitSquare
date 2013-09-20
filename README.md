@@ -1,7 +1,8 @@
 #bitSquare reloaded
 **IP**: [play.bitsquare.ru:25692](#)   
 **Website**: [bitsquare.ru](http://bitsquare.ru)   
-**Group on vk.com**: [vk.com/bitsquare](http://vk.com/bitsquare)  
+**Group**: [vk.com/bitsquare](http://vk.com/bitsquare)
+**Twitter** [@play_bitsquare](https://twitter.com/play_bitsquare)
 
 *Stable* changelog list:
 * **v1.0.2**:
