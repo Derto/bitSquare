@@ -9,8 +9,6 @@ Homely [Minecraft](https://minecraft.net/) server for *creative* and *good* peop
 **Twitter**: [@play_bitsquare](https://twitter.com/play_bitsquare)   
 **Group**: [vk.com/bitsquare](http://vk.com/bitsquare)   
 
-
-
 ## Changelog
 
 *Stable* list:
@@ -42,6 +40,7 @@ Homely [Minecraft](https://minecraft.net/) server for *creative* and *good* peop
  * get a [BowSpleef]() plugin
  * transfer mini-games to `sky` world
  * update `motd.txt` in Essentials
+ * remove Super TNT Run & Battle Arena plugins by reason of some bugs
 
 *Beta* list:
 
