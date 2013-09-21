@@ -6,8 +6,8 @@ Homely [Minecraft](https://minecraft.net/) server for *creative* and *good* peop
 
 *Website*: &nbsp;[bitsquare.ru](http://bitsquare.ru)   
 *E-mail*: &nbsp;&nbsp;&nbsp;&nbsp;[hi@bitsqaure.ru](mailto:hi@bitsqaure.ru)   
-*Twitter*: &nbsp;&nbsp;&nbsp;[@play_bitsquare](https://twitter.com/play_bitsquare)   
-*Group*: &nbsp; &nbsp;&nbsp;&nbsp;[vk.com/bitsquare](http://vk.com/bitsquare)   
+*Twitter*: &nbsp;&nbsp;&nbsp;[play_bitsquare](https://twitter.com/play_bitsquare)   
+*Group*: &nbsp; &nbsp;&nbsp;[vk.com/bitsquare](http://vk.com/bitsquare)   
 
 ## Changelog
 
