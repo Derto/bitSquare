@@ -4,11 +4,10 @@
 
 Homely [Minecraft](https://minecraft.net/) server for *creative* and *good* people.
 
-**IP**: [play.bitsquare.ru:25692](#)   
-**Website**: [bitsquare.ru](http://bitsquare.ru)   
-**E-mail**: [hi@bitsqaure.ru](mailto:hi@bitsqaure.ru)   
-**Twitter**: [@play_bitsquare](https://twitter.com/play_bitsquare)   
-**Group**: [vk.com/bitsquare](http://vk.com/bitsquare)   
+*Website*: &nbsp;[bitsquare.ru](http://bitsquare.ru)   
+*E-mail*: &nbsp;&nbsp;&nbsp;&nbsp;[hi@bitsqaure.ru](mailto:hi@bitsqaure.ru)   
+*Twitter*: &nbsp;&nbsp;&nbsp;[@play_bitsquare](https://twitter.com/play_bitsquare)   
+*Group*: &nbsp; &nbsp;&nbsp;&nbsp;[vk.com/bitsquare](http://vk.com/bitsquare)   
 
 ## Changelog
 
