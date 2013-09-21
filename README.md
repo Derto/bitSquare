@@ -6,6 +6,7 @@ Homely [Minecraft](https://minecraft.net/) server for *creative* and *good* peop
 
 **IP**: [play.bitsquare.ru:25692](#)   
 **Website**: [bitsquare.ru](http://bitsquare.ru)   
+**E-mail**: [hi@bitsqaure.ru](mailto:hi@bitsqaure.ru)   
 **Twitter**: [@play_bitsquare](https://twitter.com/play_bitsquare)   
 **Group**: [vk.com/bitsquare](http://vk.com/bitsquare)   
 
@@ -14,7 +15,7 @@ Homely [Minecraft](https://minecraft.net/) server for *creative* and *good* peop
 *Stable* list:
 * **v1.0.3**:
 
- * fixed email confirmation
+ * fixed e-mail confirmation
  * fixed lowercase nickname registration
  * fixed `infobook.get` permission
 
