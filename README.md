@@ -1,3 +1,5 @@
+![bitSquare](http://bitsquare.ru/files/logo_rounded.png)
+
 ## Introduction bitSquare
 
 Homely [Minecraft](https://minecraft.net/) server for *creative* and *good* people.
@@ -6,6 +8,8 @@ Homely [Minecraft](https://minecraft.net/) server for *creative* and *good* peop
 **Website**: [bitsquare.ru](http://bitsquare.ru)   
 **Twitter**: [@play_bitsquare](https://twitter.com/play_bitsquare)   
 **Group**: [vk.com/bitsquare](http://vk.com/bitsquare)   
+
+
 
 ## Changelog
 
