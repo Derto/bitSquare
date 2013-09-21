@@ -12,6 +12,13 @@ Homely [Minecraft](https://minecraft.net/) server for creative and good people.
 ## Changelog
 
 *Stable* list:
+* **v1.1.0**:
+
+ * remove DispenserCooldown plugin
+ * remove Command Block plugin
+ * get a [Chest Regen](http://dev.bukkit.org/bukkit-plugins/chestregeneration/) plugin
+ * fixed `/reload` bug
+
 * **v1.0.3**:
 
  * fixed e-mail confirmation
