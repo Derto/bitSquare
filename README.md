@@ -16,6 +16,7 @@ Homely [Minecraft](https://minecraft.net/) server for *creative* and *good* peop
 * **v1.0.3**:
 
  * fixed e-mail confirmation
+ * fixed e-mail sending on `<user>@mail.ru`
  * fixed lowercase nickname registration
  * fixed `infobook.get` permission
 
