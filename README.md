@@ -2,7 +2,7 @@
 
 ## Introduction bitSquare
 
-Homely [Minecraft](https://minecraft.net/) server for *creative* and *good* people.
+Homely [Minecraft](https://minecraft.net/) server for creative and good people.
 
 *Website*: &nbsp;[bitsquare.ru](http://bitsquare.ru)   
 *E-mail*: &nbsp;&nbsp;&nbsp;&nbsp;[hi@bitsqaure.ru](mailto:hi@bitsqaure.ru)   
