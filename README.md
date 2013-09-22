@@ -2,7 +2,7 @@
 
 ## Introduction bitSquare
 
-Homely [Minecraft](https://minecraft.net/) server for creative and good people.
+Homely Minecraft server for creative and good people.
 
 *Website*: &nbsp;[bitsquare.ru](http://bitsquare.ru)   
 *E-mail*: &nbsp;&nbsp;&nbsp;&nbsp;[hi@bitsqaure.ru](mailto:hi@bitsqaure.ru)   
@@ -22,7 +22,7 @@ Homely [Minecraft](https://minecraft.net/) server for creative and good people.
 * **v1.0.3**:
 
  * fixed e-mail confirmation
- * fixed e-mail sending on `<user>@mail.ru`
+ * fixed e-mail sending on `@mail.ru`
  * fixed lowercase nickname registration
  * fixed `infobook.get` permission
 
