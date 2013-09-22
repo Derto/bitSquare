@@ -17,6 +17,7 @@ Homely Minecraft server for creative and good people.
  * remove DispenserCooldown plugin
  * remove Command Block plugin
  * get a [Chest Regen](http://dev.bukkit.org/bukkit-plugins/chestregeneration/) plugin
+ * added WorldGuard flag `invincible` on a world spawn
  * fixed `/reload` bug
 
 * **v1.0.3**:
