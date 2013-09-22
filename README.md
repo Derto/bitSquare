@@ -12,6 +12,13 @@ Homely Minecraft server for creative and good people.
 ## Changelog
 
 *Stable* list:
+* **v1.1.1**:
+
+ * remove MyHub plugin
+ * fixed first spawn on join
+ * fixed `bowspleef.start` permission
+ * disabled e-mail confirmation
+
 * **v1.1.0**:
 
  * remove DispenserCooldown plugin
