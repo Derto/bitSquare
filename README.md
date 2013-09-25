@@ -12,11 +12,19 @@ Homely Minecraft server for creative and good people.
 ## Changelog
 
 *Stable* list:
+* **v1.1.2**:
+
+ * fixed first spawn on website registration
+ * added multiworld support home with [HomeSpawnPlus](http://dev.bukkit.org/bukkit-plugins/homespawnplus/) plugin
+ * fixed `/home` command
+ * fixed `/sethome` command
+ * fixed `/ma leave` command
+
 * **v1.1.1**:
 
  * remove MyHub plugin
  * fixed first spawn on join
- * fixed `bowspleef.start` permission
+ * fixed `/bs leave` command
  * disabled e-mail confirmation
 
 * **v1.1.0**:
@@ -32,7 +40,7 @@ Homely Minecraft server for creative and good people.
  * fixed e-mail confirmation
  * fixed e-mail sending on `@mail.ru`
  * fixed lowercase nickname registration
- * fixed `infobook.get` permission
+ * fixed `/infobook get start` command
 
 * **v1.0.2**:
 
