@@ -12,6 +12,17 @@ Homely Minecraft server for creative and good people.
 ## Changelog
 
 *Stable* list:
+* **v1.2.0**:
+
+ * disable website registration
+ * disable global chat function
+ * update the core to [Spigot-1.6.4-R0.1](http://ci.md-5.net/job/Spigot/)
+ * update [HomeSpawnPlus](http://dev.bukkit.org/bukkit-plugins/homespawnplus/) plugin
+ * update [WorldEdit](#) plugin
+ * update [Info Book](http://dev.bukkit.org/bukkit-plugins/info-book/) plugin
+ * remove Survival Games plugin
+ * remove Super Bow Spleef plugin
+
 * **v1.1.2**:
 
  * fixed first spawn on website registration
