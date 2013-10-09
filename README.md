@@ -12,6 +12,23 @@ Homely Minecraft server for creative and good people.
 ## Changelog
 
 *Stable* list:
+* **v1.3.0**:
+
+ * added rewards on MobArena plugin
+ * added multiple homes
+ * added [EssentialsSpawn](http://dev.bukkit.org/bukkit-plugins/essentials/) plugin
+ * update spawn area for survival
+ * update [Essentials](http://dev.bukkit.org/bukkit-plugins/essentials/) plugin
+ * update typography
+ * fixed `/online` command
+ * fixed `/spawn` command on the nether world
+ * remove [Ultimate Skyblock](http://dev.bukkit.org/bukkit-plugins/ultimate-skyblock/) plugin
+ * remove [Info Book](http://dev.bukkit.org/bukkit-plugins/info-book/) plugin
+ * remove [SDFEconomy](#) plugin
+ * remove [Multiverse-Portals](http://dev.bukkit.org/bukkit-plugins/multiverse-core/) plugin
+ * remove [HomeSpawnPlus](http://dev.bukkit.org/bukkit-plugins/homespawnplus/) plugin
+ * remove [Shopkeepers](http://dev.bukkit.org/bukkit-plugins/shopkeepers/)
+
 * **v1.2.0**:
 
  * disable website registration
