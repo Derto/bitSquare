@@ -27,7 +27,7 @@ Homely Minecraft server for creative and good people.
  * remove [SDFEconomy](#) plugin
  * remove [Multiverse-Portals](http://dev.bukkit.org/bukkit-plugins/multiverse-core/) plugin
  * remove [HomeSpawnPlus](http://dev.bukkit.org/bukkit-plugins/homespawnplus/) plugin
- * remove [Shopkeepers](http://dev.bukkit.org/bukkit-plugins/shopkeepers/)
+ * remove [Shopkeepers](http://dev.bukkit.org/bukkit-plugins/shopkeepers/) plugin
 
 * **v1.2.0**:
 
